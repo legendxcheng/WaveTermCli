@@ -1,0 +1,4 @@
+[submodule "waveterm"]
+	path = waveterm
+	url = https://github.com/legendxcheng/waveterm.git
+	branch = custom
